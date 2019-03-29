@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Sawangfa;Onnicha;;;
+FN: Onnicha Sawangfa 
+ORG:Fiscal Policy Office, Ministry of Finance;
+TITLE:Senior economist
+EMAIL;type=INTERNET;type=WORK;type=pref:onnicha@fpo.go.th
+TEL;type=WORK;type=VOICE:+66 (0) 85 062 2527
+item1.ADR;type=WORK;type=pref:;;Rama 6 Road, Phyathai, Bangkok;;;10400;Thailand
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.fpo.go.th
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
